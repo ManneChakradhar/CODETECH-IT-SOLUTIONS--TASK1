@@ -41,7 +41,7 @@ EDA is a significant step before diving into statistical modelling or machine le
  Correlation Analysis: Explore correlations between variables to understand which factors influence each other and how.
 
  # Results and Findings
- 
+ ![Poject 1](image/1.png)
 
 
  # Conclusion
