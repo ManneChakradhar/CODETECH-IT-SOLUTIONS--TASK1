@@ -13,6 +13,7 @@
 This repository contains my Exploratory Data Analysis (EDA) project using Python Pandas. The project analyses marathon race data sourced from Kaggle, utilizing Jupyter Notebook for coding.
 EDA is a significant step before diving into statistical modelling or machine learning, to ensure the data is what it is claimed to be and that there are no obvious errors.
 
+
 # Overview
  Typical Process:
  Look at the Data, Clean the Data, Make Summaries, Visualize the Data, Ask Questions and Find Answers.
@@ -42,9 +43,17 @@ EDA is a significant step before diving into statistical modelling or machine le
 
  # Results and Findings
  ![Poject 1](image/1.png)
-
+Through EDA, we got useful insights
 
  # Conclusion
+Exploratory Data Analysis (EDA) is crucial for understanding datasets, identifying patterns, and informing subsequent analysis. Data pre-processing and feature engineering are essential steps in preparing data for analysis, involving tasks such as data reduction, cleaning, and transformation. Python libraries offer powerful tools for executing these steps efficiently. Also, in the article we talk about how eda uses Python and how you can make it we showed a complete guide for that.
+
+Data Analysis helps to find the basic structure of the dataset.
+- Dropped columns that are not adding value to our analysis.
+- Performed Feature Engineering by adding some columns which contribute to our analysis.
+- Data Transformations have been used to normalize the columns.
+- We used different visualizations for Exploratory data analysis (EDA) like Univariate, Bi-Variate, and Multivariate Analysis.
+ 
 
  # Future Work
 
