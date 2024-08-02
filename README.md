@@ -32,9 +32,12 @@ Data pre-processing involves cleaning and preparing raw data to facilitate featu
 
  # Installation
  ## Tools and Libraries: 
- ##Python: Python is the primary programming language for data manipulation and analysis. 
- ##Jupyter Notebook: Provides an interactive environment for running Python code and documenting the analysis process. 
- ##Libraries: Key libraries such as Pandas (for data manipulation), Matplotlib and Seaborn (for data visualization), and NumPy (for numerical operations) are 
+ ### Python: 
+ Python is the primary programming language for data manipulation and analysis. 
+ ### Jupyter Notebook:
+ Provides an interactive environment for running Python code and documenting the analysis process. 
+ ### Libraries:
+ Key libraries such as Pandas (for data manipulation), Matplotlib and Seaborn (for data visualization), and NumPy (for numerical operations) are 
  utilized.
 
  # Exploratory Data Analysis
